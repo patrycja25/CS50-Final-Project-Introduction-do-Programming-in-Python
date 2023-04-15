@@ -1,0 +1,7 @@
+I installed some libraries to my project:
+=> sys
+=>  PrettyTable
+=> random
+=> sqlite3
+=> datetime
+=> matplotlib.pyplot 
